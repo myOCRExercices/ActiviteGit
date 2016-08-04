@@ -1,0 +1,1 @@
+Ceci est un exercice d'activité 2 pour le cours de "Git & GitHub"
